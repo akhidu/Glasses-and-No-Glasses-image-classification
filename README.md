@@ -2,5 +2,5 @@ The presence of eyeglasses is a technical obstruction in facial analysis systems
 
 **“The objective is to determine if a person is wearing glasses or not”**
 
-![tumblr_mdwhfcKt7C1r2nfqho1_500](https://user-images.githubusercontent.com/83582059/147789833-6aa5a2dd-4e5c-4105-914e-e0785380edde.gif)
+![tumblr_mdwhfcKt7C1r2nfqho1_500](https://38.media.tumblr.com/tumblr_mdwhfcKt7C1r2nfqho1_500.gif)
 
